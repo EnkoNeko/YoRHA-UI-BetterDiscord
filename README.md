@@ -1,3 +1,14 @@
+- select element to change with ctrl+shift+i  
+- search for it in these files
+
+Change:   
+cursor?  
+add clear windows e.g. between channels and selected channel text window   
+message headers  
+folders  
+font?  
+alert colour
+
 # YoRHA-UI-BetterDiscord
 Better Discord theme based around NieR: Automata's Menu UI
 
